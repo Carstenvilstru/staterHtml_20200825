@@ -1,3 +1,1 @@
-Tack  
-  
-  # travel-site
+Tack
